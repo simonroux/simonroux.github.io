@@ -1,15 +1,17 @@
 html,body {
   height:100%;
+    font-family: alice;
 }
 
 h1 {
-  font-family: Arial,sans-serif
+  font-family: alice;
   font-size:80px;
-  color:#DDCCEE;
+  color: white;
 }
 
 .lead {
-	color:#DDCCEE;
+    font-family: alice;
+	color: light-grey;
 }
 
 
@@ -18,9 +20,10 @@ h1 {
   margin: 0 auto;
   width: 100%;
   min-height:100%;
-  background-color:#110022;
+  background-color:black;
   color:#eee;
   overflow:hidden;
+    
 }
 
 .container-full a {
@@ -32,3 +35,7 @@ h1 {
   margin-top:7%;
 }
   
+img {
+    width: 100%;
+    clear:none;
+}
