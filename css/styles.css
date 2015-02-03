@@ -39,3 +39,9 @@ img {
     width: 100%;
     clear:none;
 }
+
+.courriel {
+    font-family: alice; 
+    font-size: 0.3em;
+    font-weight: 100;
+}
