@@ -16,7 +16,7 @@ body {
 
 hr {
     max-width: 50px;
-    border-color: #708B75;
+    border-color: #444B6E;
     border-width: 3px;
 }
 
@@ -52,7 +52,7 @@ p {
 }
 
 .bg-primary {
-    background-color: #708B75;
+    background-color: #444B6E;
 }
 
 .bg-dark {
@@ -89,7 +89,7 @@ aside {
     text-transform: uppercase;
     font-family: 'Open Sans','Helvetica Neue',Arial,sans-serif;
     font-weight: 700;
-    color: #708B75;
+    color: #444B6E;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
@@ -387,7 +387,7 @@ fieldset[disabled] .btn-default.active {
 .btn-primary {
     border-color: #f05f40;
     color: #fff;
-    background-color: #708B75;
+    background-color: #444B6E;
     -webkit-transition: all .35s;
     -moz-transition: all .35s;
     transition: all .35s;
@@ -401,7 +401,7 @@ fieldset[disabled] .btn-default.active {
 .open > .dropdown-toggle.btn-primary {
     border-color: #ed431f;
     color: #fff;
-    background-color: #444B6E;
+    background-color: #3D315B;
 }
 
 .btn-primary:active,
@@ -483,5 +483,6 @@ body {
   max-width: 100%;
   height: auto;
 }
+
 
 
